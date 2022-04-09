@@ -1,16 +1,15 @@
-### Hi there 👋
+## Seja bem-vindo(a) ao meu GitHub
 
-<!--
-**eduardoconceicao90/eduardoconceicao90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>🎓 Graduado em Análise e Desenvolvimento de Sistemas</p> 
 
-Here are some ideas to get you started:
+<h4 align="left">Linguagem e Ferramentas:</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- PostgreSQL
+- Apache Tomcat
+- Eclipse IDE
+
+#### Contatos:
+<a href="https://www.linkedin.com/in/eduardoconceicao90/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"></a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardosaconceicao@gmail.com)](mailto:eduardosaconceicao@gmail.com)
