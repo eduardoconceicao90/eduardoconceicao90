@@ -7,8 +7,9 @@
 - Java
 - Spring Boot
 - Angular
-- Thymeleaf
 - PostgreSQL
+- MySQL
+- Git
 
 #### Contatos:
 <a href="https://www.linkedin.com/in/eduardoconceicao90/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"></a>
