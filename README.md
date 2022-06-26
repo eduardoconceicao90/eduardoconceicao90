@@ -4,9 +4,9 @@
 
 <h4 align="left">Linguagem e Ferramentas:</h4>
 
-- Java
+- Java 11
 - Spring Boot
-- Angular
+- Angular 10
 - PostgreSQL
 - MySQL
 - Git
