@@ -6,7 +6,7 @@
 
 - Java 11
 - Spring Boot
-- Angular 10
+- Angular
 - PostgreSQL
 - MySQL
 - Git
