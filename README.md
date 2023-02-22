@@ -20,7 +20,7 @@
 <p >
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" height="38" hspace="6px"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="38" height="38" hspace="6px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="38" height="38" hspace="6px"/>
+	<img src="https://user-images.githubusercontent.com/71357905/220776831-4414090c-e990-4268-a955-4dd4aad58d76.png" width="38" height="38" hspace="6px"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" height="38" hspace="6px"/>      
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="38" height="38" hspace="6px"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="38" height="38" hspace="6px"/>
