@@ -1,8 +1,7 @@
 <div>
 	<h1><b>Olá, seja bem-vindo(a) ao meu GitHub!</b></h1>
-	- 🖥 Sou Analista de Desenvolvimento de Sistemas Jr na Urbana-PE. <br>
-	- 🎓 Graduado em Análise e Desenvolvimento de Sistemas. <br>
-	- ♨ E um grande entusiasta da programação.
+	- ♨ Analista de Desenvolvimento de Sistemas Jr na Urbana-PE. <br>
+	- 🎓 Formado em Análise e Desenvolvimento de Sistemas. <br>
 </div>
 
 <br>
