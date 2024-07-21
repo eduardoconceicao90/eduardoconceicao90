@@ -11,7 +11,7 @@
 <p >
 	<a href="https://www.linkedin.com/in/eduardoconceicao90/"><img src="https://user-images.githubusercontent.com/71357905/218304641-14f7d622-e44c-4d0f-9100-dec209c440f2.png" alt="linkedIn"/></a>
 	<a href="mailto:contato@eduardosaconceicao@gmail.com"><img src="https://user-images.githubusercontent.com/71357905/218303896-5f9fd48f-9155-47a9-bfea-4b4ca5e14c4c.png" alt="gmail"/></a>
-	<a href="https://wa.me/5581983784049"><img src="https://user-images.githubusercontent.com/71357905/218304605-c8fdbd1c-465d-4fbe-99de-601a16dbdbe5.png" alt="whatsapp"/></a>
+	<!-- <a href="https://wa.me/558198378"><img src="https://user-images.githubusercontent.com/71357905/218304605-c8fdbd1c-465d-4fbe-99de-601a16dbdbe5.png" alt="whatsapp"/></a> -->
 </p>
 
 <p><b>Linguagens e Ferramentas:</b></p> 
@@ -24,8 +24,8 @@
 	<img src="https://www.techasoft.com/debug/img/oracle.png" width="38" height="38" hspace="6px"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" height="38" hspace="6px"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" hspace="6px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="38" height="38" hspace="2px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="38" height="38" hspace="2px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="38" height="38" hspace="6px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="38" height="38" hspace="6px"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" hspace="6px"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="38" height="38" hspace="8px"/>
 	<img src="https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png" width="38" height="38"/>	
