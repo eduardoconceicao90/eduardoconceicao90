@@ -28,7 +28,8 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="38" height="38" hspace="6px"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="38" height="38" hspace="6px"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" hspace="6px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="38" height="38" hspace="8px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="38" height="38" hspace="6px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="38" height="38" hspace="6px"/>
 	<img src="https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png" width="38" height="38"/>	
 </p>
 
