@@ -17,20 +17,20 @@
 
 <p><b>Linguagens e Ferramentas:</b></p> 
 
-<p >
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" height="38" hspace="6px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="38" height="38" hspace="6px"/>
-	<img src="https://user-images.githubusercontent.com/71357905/220776831-4414090c-e990-4268-a955-4dd4aad58d76.png" width="38" height="38" hspace="6px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="38" height="38" hspace="6px"/> 
-	<img src="https://www.techasoft.com/debug/img/oracle.png" width="38" height="38" hspace="6px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" height="38" hspace="6px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" hspace="6px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="38" height="38" hspace="6px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="38" height="38" hspace="6px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" hspace="6px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="38" height="38" hspace="6px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="38" height="38" hspace="6px"/>
-	<img src="https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png" width="38" height="38"/>	
+<p>
+	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" hspace="6px"/>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" hspace="6px"/>
+	<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" hspace="6px"/>
+	<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" hspace="6px"/> 
+	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" hspace="6px"/> 
+	<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" hspace="6px"/>
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" hspace="6px"/>  <br>
+	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" hspace="6px"/>
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" hspace="6px"/>
+	<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" hspace="6px"/>
+	<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" hspace="6px"/>
+	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" hspace="6px"/>
+	<img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white"/>	
 </p>
 
 <br>
