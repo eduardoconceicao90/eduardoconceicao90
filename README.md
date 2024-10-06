@@ -1,7 +1,7 @@
 <div>
 	<h1><b>Olá, seja bem-vindo(a) ao meu GitHub!</b></h1>
-	- 👨🏽‍💻 Desenvolvedor III na MV <br>
-	- 🎓 Graduado em Análise e Desenvolvimento de Sistemas e Pós-graduando em Arquitetura de Software <br>
+	- 👨🏽‍💻 Desenvolvedor III na MV. <br>
+	- 🎓 Graduado em Análise e Desenvolvimento de Sistemas e Pós-graduando em Arquitetura de Software. <br>
 </div>
 
 <br>
