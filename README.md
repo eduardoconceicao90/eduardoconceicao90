@@ -1,6 +1,6 @@
 <div>
 	<h1><b>Olá, seja bem-vindo(a) ao meu GitHub!</b></h1>
-	- 👨🏽‍💻 Analista de Sistemas Pleno <br>
+	- 👨🏽‍💻 Desenvolvedor Full Stack Pleno <br>
 	- 🎓 Graduado em Análise e Desenvolvimento de Sistemas e Pós-graduando em Arquitetura de Software. <br>
 </div>
 
