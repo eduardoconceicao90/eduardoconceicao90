@@ -1,6 +1,6 @@
 <div>
 	<h1><b>Olá, seja bem-vindo(a) ao meu GitHub!</b></h1>
-	- 👨🏽‍💻 Desenvolvedor Full Stack Pleno <br>
+	- 👨🏽‍💻 Desenvolvedor Full Stack Pleno na Urbana-PE <br>
 	- 🎓 Graduado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Arquitetura de Software. <br>
 </div>
 
