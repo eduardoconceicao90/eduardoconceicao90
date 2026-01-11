@@ -5,7 +5,7 @@
   </p>
 </div>
 
-<h4>🛠️ Linguagens e Ferramentas:</h4>
+<h3>🛠️ Linguagens e Ferramentas:</h3>
 
 <p>
 	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" hspace="6px"/>
