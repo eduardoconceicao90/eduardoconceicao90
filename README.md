@@ -1,7 +1,7 @@
 <div>
   <h1>Olá 👋 <br> Seja bem-vindo(a) ao meu GitHub</h1>
   <p>
-    👨🏽‍💻 <strong>Custom Software Engineering Analyst</strong> at <strong>Accenture</strong>
+    👨🏽‍💻 Custom Software Engineering Analyst at Accenture
   </p>
 </div>
 
