@@ -1,11 +1,8 @@
 <div>
   <h1>Olá 👋 <br> Seja bem-vindo(a) ao meu GitHub</h1>
-  <p>
-    👨🏽‍💻 Custom Software Engineering Analyst at Accenture
-  </p>
 </div>
 
-<h3>🛠️ Linguagens e Ferramentas:</h3>
+<h4>👨🏽‍💻 Custom Software Engineering Analyst at Accenture</h4><br>
 
 <p>
 	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" hspace="6px"/>
