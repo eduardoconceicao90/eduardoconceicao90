@@ -5,8 +5,6 @@
   </p>
 </div>
 
-<br>
-
 <p>
 	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" hspace="6px"/>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" hspace="6px"/>
