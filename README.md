@@ -2,7 +2,7 @@
   <h1>Olá 👋 <br> Seja bem-vindo(a) ao meu GitHub</h1>
 </div>
 
-<h4>👨🏽‍💻 Custom Software Engineering Analyst at Accenture</h4>
+<h4>👨🏽‍💻 Analista Desenvolvedor Web II at Hitss Brasil</h4>
 
 <p>
 	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" hspace="6px"/>
